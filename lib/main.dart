@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:mcsi/app/sign_in/sign_in_page.dart';
+import 'package:mcsi/app/landing_page.dart';
 import 'package:firebase_core/firebase_core.dart';
 
 import 'app/sign_in/sign_in_page.dart';
@@ -23,7 +23,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.indigo,
       ),
-      home: SignInPage(),
+      home: LandingPage(),
     );
   }
 }
