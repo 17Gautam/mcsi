@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "258669695709",
+    "project_id": "mcsi-72f88",
+    "storage_bucket": "mcsi-72f88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258669695709:android:a9b163d1460312be544134",
+        "android_client_info": {
+          "package_name": "com.example.mcsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258669695709-dnp4bdmnna7qn3ml5rcslmdvijrrb8au.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mcsi",
+            "certificate_hash": "cdf199f45d66ea684b31096ff6a41bbbdd9f52ce"
+          }
+        },
+        {
+          "client_id": "258669695709-b4plncmabb343kqpgjmo646a6vrh5s6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJf3CLIwZRGDluWwY1PLdWJ1VvOyAqAis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258669695709-b4plncmabb343kqpgjmo646a6vrh5s6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
